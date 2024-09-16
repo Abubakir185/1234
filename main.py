@@ -1,6 +1,3 @@
-
-
-
 password = "salom1234"
 son = input("Password: ")
 
@@ -10,5 +7,3 @@ while son != password:
    if son == password:
         print("You are welcome!")
         break
-
- 
